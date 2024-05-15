@@ -1,5 +1,8 @@
 import { SimpleSouthKoreaMapChart } from "react-simple-south-korea-map-chart";
 import React from "react";
+
+
+//Spring을 통한 구현 필요
 const data = [
     { locale: "부산광역시", count: 1500 },
     { locale: "대구광역시", count: 3000 },
